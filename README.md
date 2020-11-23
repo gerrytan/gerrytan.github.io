@@ -2,9 +2,17 @@
 
 Source code for gerrytan.com, all public facing files are in `/docs`
 
-## To publish changes
+# Local environment setup
 
-Simply change the files in /docs and push
+## Prerequisitee
+
+1. ruby + gem, check with `ruby -v` and `gem -v`
+1. [Bundler](https://bundler.io), check with `bundle -v`
+
+## Running the site locally
+
+1. `cd docs`
+1. `bundle exec jekyll serve` - if it complains about missing dependencies, do `bundle install` first
 
 ## Links & notes
 
