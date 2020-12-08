@@ -2,6 +2,10 @@
 
 Source code for gerrytan.com, all public facing files are in `/docs`
 
+# Publishing change
+
+Just push the change to git origin, wait 15-30 min for github pages to do their magic
+
 # Local environment setup
 
 ## Prerequisitee
